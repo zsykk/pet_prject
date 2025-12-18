@@ -21,4 +21,4 @@ Run the notebook `pet_project.ipynb` from top to bottom to reproduce all results
 The full two-page report is provided separately.
 
 ### Github links
-[text](https://github.com/zsykk/pet_prject.git)
+https://github.com/zsykk/pet_prject.git
