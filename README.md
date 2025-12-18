@@ -12,7 +12,6 @@ where I analyze my own daily step counts over time.
 ## Structure
 - /data: raw and processed data
 - /notebooks: analysis notebooks
-- /src: helper scripts (if any)
 
 ## Reproducibility
 Run the notebook `pet_project.ipynb` from top to bottom to reproduce all results.
